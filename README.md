@@ -14,7 +14,7 @@ Juan de la Cruz Martínez y Juan Zapata
 - NB7. Using pytorch to fight cancer II
 - NB8. Using pytorch to fight cancer III
 - NB9. Using pytorch to fight cancer IV
-- NB10. Chest_Xray_Classification (YOLO V8)
+- NB10. Chest_Xray_Classification_Train_(YOLO V8)
 
 ## Enlaces Interesantes
 
