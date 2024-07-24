@@ -41,3 +41,9 @@ Juan de la Cruz Martínez y Juan Zapata
 - [An Introduction to Biomedical Image Analysis with TensorFlow and DLTK](https://blog.tensorflow.org/2018/07/an-introduction-to-biomedical-image-analysis-tensorflow-dltk.html)
 
 - [Salvatore Riali tutorials about on machine learning, artificial intelligence, data science with math explanation and reusable code (in python and R)](https://github.com/SalvatoreRa/tutorial)
+
+### Busqueda en Google: `medical imaging YOLOv8`
+
+- [YOLOv8 Medical Imaging - GitHub](https://github.com/sevdaimany/YOLOv8-Medical-Imaging)
+- [Medical Instance Segmentation with YOLOv8 | kaggle](https://www.kaggle.com/code/mersico/medical-instance-segmentation-with-yolov8)
+- [YOLOv8 Segmentation on Custom Dataset (Medical Image Segmentation)](https://github-wiki-see.page/m/idmwy/YOLO/wiki/YOLOv8-Segmentation-on-Custom-Dataset-%28Medical-Image-Segmentation%29)
