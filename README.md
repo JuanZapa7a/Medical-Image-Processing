@@ -18,6 +18,7 @@ Juan de la Cruz Martínez y Juan Zapata
 - NB11. Medical Instance Segmentation with MASK RCNN Custom Finetunning
 - NB12. NB12. Classifyng Cancer cells with YOLOV8
 - NB13. NB13. Detecting Red Blood Cells (RBC), White Blood Cells (WBC), and Platelets in blood cell images using YOLOv8
+- NB14. NB14. Segmenting Breast Ultrasound Images using YOLOv8
 
 ## Enlaces Interesantes
 
