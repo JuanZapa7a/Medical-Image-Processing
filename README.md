@@ -14,9 +14,9 @@ Juan de la Cruz Martínez y Juan Zapata
 - NB7. Using pytorch to fight cancer II
 - NB8. Using pytorch to fight cancer III
 - NB9. Using pytorch to fight cancer IV
-- NB10. Chest_Xray_Classification_Train_(YOLO V8)
+- NB10. Chest Xray Classification Using YOLOv8
 - NB11. Medical Instance Segmentation with MASK RCNN Custom Finetunning
-- NB12. NB12. Classifyng Cancer cells with YOLOV8
+- NB12. NB12. Classifyng Cancer cells with YOLOv8
 - NB13. NB13. Detecting Red Blood Cells (RBC), White Blood Cells (WBC), and Platelets in blood cell images using YOLOv8
 - NB14. NB14. Segmenting Breast Ultrasound Images using YOLOv8
 
