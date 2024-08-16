@@ -18,7 +18,7 @@ Juan de la Cruz Martínez y Juan Zapata
 - NB11. Chest Xray Classification Using YOLOv8
 - NB12. Medical Instance Segmentation with MASK RCNN Custom Finetunning
 - NB13. NB12. Classifyng Cancer cells with YOLOv8
-- NB14. NB13. Detecting Red Blood Cells (RBC), White Blood Cells (WBC), and Platelets in blood cell images using YOLOv8
+- NB14. NB13. Detecting Red Blood Cells (RBC), White Blood Cells (WBC), and Platelets from Microscope Images Using YOLOv8
 - NB15. NB14. Segmenting Breast Ultrasound Images using YOLOv8
 
 ## Enlaces Interesantes
