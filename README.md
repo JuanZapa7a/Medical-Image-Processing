@@ -7,14 +7,14 @@ Juan de la Cruz Martínez y Juan Zapata
 ## Temario:  Deep Learning for Medical Image Processing Notebooks
 - NB1. **BioMedicene Images Datasets ** 
 - NB2. **Getting Started with Roboflow**  
-- NB3. **Google Notebook and tensorflow I**
-- NB4. **Google Notebook and tensorflow II**
-- NB5. **Google Notebook and tensorflow III**
-- NB6. **Using pytorch to fight cancer I**
-- NB7. **Using pytorch to fight cancer II**
-- NB8. **Using pytorch to fight cancer III**
-- NB9. **Using pytorch to fight cancer IV**
-- NB10. **Using pytorch to fight cancer V** 
+- NB3. **Biomedical Images and tensorflow I**
+- NB4. **Biomedical Images and tensorflow II**
+- NB5. **Biomedical Images and tensorflow III**
+- NB6. **Biomedical Images and Pytorch I**
+- NB7. **Biomedical Images and Pytorch II**
+- NB8. **Bioemdical Images and Pytorch III**
+- NB9. **Biomedical Images and Pytorch IV**
+- NB10. **Biomedical Images and Pytorch V** 
 - NB11. **Chest Xray Classification Using YOLOv8**
 - NB12. **Medical Instance Segmentation with MASK RCNN Custom Finetunning**
 - NB13. **Classifyng Cancer cells with YOLOv8**
