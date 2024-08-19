@@ -5,21 +5,21 @@
 Juan de la Cruz Martínez y Juan Zapata
 
 ## Temario:  Deep Learning for Medical Image Processing Notebooks
-- NB1. BioMedicene Images Datasets  
-- NB2. Getting Started with Roboflow  
-- NB3. Google Notebook and tensorflow I
-- NB4. Google Notebook and tensorflow II
-- NB5. Google Notebook and tensorflow III
-- NB6. Using pytorch to fight cancer I
-- NB7. Using pytorch to fight cancer II
-- NB8. Using pytorch to fight cancer III
-- NB9. Using pytorch to fight cancer IV
-- NB10. Using pytorch to fight cancer V 
-- NB11. Chest Xray Classification Using YOLOv8
-- NB12. Medical Instance Segmentation with MASK RCNN Custom Finetunning
-- NB13. NB12. Classifyng Cancer cells with YOLOv8
-- NB14. NB13. Detecting Red Blood Cells (RBC), White Blood Cells (WBC), and Platelets from Microscope Images Using YOLOv8
-- NB15. NB14. Segmenting Breast Ultrasound Images using YOLOv8
+- NB1. **BioMedicene Images Datasets ** 
+- NB2. **Getting Started with Roboflow**  
+- NB3. **Google Notebook and tensorflow I**
+- NB4. **Google Notebook and tensorflow II**
+- NB5. **Google Notebook and tensorflow III**
+- NB6. **Using pytorch to fight cancer I**
+- NB7. **Using pytorch to fight cancer II**
+- NB8. **Using pytorch to fight cancer III**
+- NB9. **Using pytorch to fight cancer IV**
+- NB10. **Using pytorch to fight cancer V** 
+- NB11. **Chest Xray Classification Using YOLOv8**
+- NB12. **Medical Instance Segmentation with MASK RCNN Custom Finetunning**
+- NB13. **Classifyng Cancer cells with YOLOv8**
+- NB14. **Detecting Red Blood Cells (RBC), White Blood Cells (WBC), and Platelets from Microscope Images Using YOLOv8**
+- NB15. **Segmenting Breast Ultrasound Images using YOLOv8**
 
 ## Enlaces Interesantes
 
