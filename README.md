@@ -5,7 +5,7 @@
 Juan de la Cruz Martínez y Juan Zapata
 
 ## Temario:  Deep Learning for Medical Image Processing Notebooks
-- NB1. **BioMedicene Images Datasets ** 
+- NB1. **BioMedicene Images Datasets** 
 - NB2. **Getting Started with Roboflow**  
 - NB3. **Biomedical Images and tensorflow I**
 - NB4. **Biomedical Images and tensorflow II**
