@@ -13,7 +13,7 @@
 ### 3. Computer Vision Fundamentals and Basic Image Processing Techniques
 ### 4. Machine and Deep Learning Techniques for Medical Image Processing: 
   #### (Theory and Practice)
-  - NB1. **BioMedicene Images Datasets** 
+  - NB1. **BioMedicine Images Datasets** 
   - NB2. **Getting Started with Roboflow**  
   - NB3. **Biomedical Images and Tensorflow I**
   - NB4. **Biomedical Images and Tensorflow II**
