@@ -21,7 +21,7 @@ NB2-02
 
 ### 2. Medical Imaging Modalities and Standards
 
-- NB2-1.
+- NB2-1. **Medical Image Acquisition** 
 - NB2-2. **Standards for Medical Images**
 
 ### 3. Computer Vision Fundamentals and Basic Image Processing Techniques
