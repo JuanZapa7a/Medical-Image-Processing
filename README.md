@@ -6,7 +6,7 @@
 
 ## **Professors**: [Juan de la Cruz Martínez](https://personas.upct.es/perfil/juanc.martinez), [Javier Toledo](https://personas.upct.es/perfil/javier.toledo) and [Juan Zapata](https://personas.upct.es/perfil/juan.zapata)
 
-## **Teaching Plan for the 2024/2025 Academic Year (Room PS10)**  
+## **[Teaching Plan]() for the 2024/2025 Academic Year (Room PS10)**  
 
 ### **Schedule:**  
 - **Theory:**  
@@ -27,12 +27,12 @@
 | **2,3 Oct.**         | # 5  |NB3-8/NB3-9 Juan Martínez        |                              | 2 | 4  |   | PNB3-5/PNB3-6/PNB3-7 Juan Martínez      | PNB3-5/PNB3-6/PNB3-7 Juan Martínez      | 2 |
 | **9,10 Oct.**        | # 6  |NB3-9/NB3-10 Juan Martínez       | NB4-1/NB4-2 Juan Zapata      | 4 | 6  |   | PNB3-8/PNB3-9/PNB3-10 Juan Martínez     | PNB3-8/PNB3-9/PNB3-10 Juan Martínez     | 2 |
 | **16,17 Oct.**       | # 7  |NB4-3/NB4-4 Juan Zapata          | NB4-5/NB4-6 Juan Zapata      | 4 | 6  |   | PNB4-1/PNB4-2/PNB4-3/PNB4-4 Juan Zapata | PNB4-1/PNB4-2/PNB4-3/PNB4-4 Juan Zapata | 2 |
-| **21-25 Oct.**       |      |**Notebook Submission (Part I)** |                              |   | 31 |   |                                         |                                         |   |
-| **23,24 Oct.**       | # 8  |NB4-7/NB4-8 Juan Zapata          | Midterm 1 17:00-19:00h       | 2 | 4  | 1 | PNB4-5/PNB4-6/PNB4-7 Juan Zapata        | PNB4-5/PNB4-6/PNB4-7 Juan Zapata        | 2 |
+| **21-25 Oct.**       |      |**Notebook Submission (Part I)** |                              |   | 32 |   |                                         |                                         |   |
+| **23,24 Oct.**       | # 8  |NB4-7/NB4-8 Juan Zapata          | Midterm 1 17:00-19:00h       | 2 | 4  | 2 | PNB4-5/PNB4-6/PNB4-7 Juan Zapata        | PNB4-5/PNB4-6/PNB4-7 Juan Zapata        | 2 |
 | **30,31 Oct.**       | # 9  |NB4-9/NB4-10 Juan Zapata         | NB4-11/NB4-12 Juan Zapata    | 4 | 6  |   | PNB4-8/PNB4-9/PNB4-10 Juan Zapata       | PNB4-8/PNB4-9/PNB4-10 Juan Zapata       | 2 |
 | **6,7 Nov.**         | # 10 |NB4-12/NB4-13 Juan Zapata        | NB4-13/NB4-14 Juan Zapata    | 4 | 6  |   | PNB4-11/PNB4-12/PNB4-13 Juan Zapata     | PNB4-11/PNB4-12/PNB4-13 Juan Zapata     | 2 |
-| **13,14 Nov.**       | # 11 |NB4-14/NB4-15 Juan Zapata        | Midterm 2 17:00-19:00h       | 2 | 4  | 1 | PNB4-14/PNB4-15 Juan Zapata             | PNB4-14/PNB4-15 Juan Zapata             | 2 |
-| **25-29 Nov.**       |      |**Notebook Submission (Part II)**|                              |   | 31 |   |                                         |                                         |   |
+| **13,14 Nov.**       | # 11 |NB4-14/NB4-15 Juan Zapata        | Midterm 2 17:00-19:00h       | 2 | 4  | 2 | PNB4-14/PNB4-15 Juan Zapata             | PNB4-14/PNB4-15 Juan Zapata             | 2 |
+| **25-29 Nov.**       |      |**Notebook Submission (Part II)**|                              |   | 32 |   |                                         |                                         |   |
 | **Exam June 6**      |      |                                 |                              |   |    |   |                                         |                                         |   |
 | **ExtraExam July 2** |      |                                 |                              |   |    |   |                                         |                                         |   |
 
@@ -41,7 +41,7 @@
 
 | Theory | Alumni Work | Exams | Practical|
 |--------|--------------|-------|----------|
-| 42     | 118          |    2  |     18   |
+| 38     | 120          |    4  |     18   |
 |---|
 
 
