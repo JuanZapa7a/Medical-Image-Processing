@@ -64,7 +64,7 @@
 
 ## **Syllabus**
 
-- NB0. **Introduction to Medical Image Processing**
+- NB0. **[Introduction to Medical Image Processing](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB0%20Introduction%20to%20Medical%20Image%20Processing.ipynb)**
 
 ### 1. Software Development Environments for Medical Image Processing
 
