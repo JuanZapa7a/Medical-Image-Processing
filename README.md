@@ -79,7 +79,7 @@
 ### 3. Computer Vision Fundamentals and Basic Image Processing Techniques
 
 - NB3-1. **[Fundamentals of Digital Images and Computer Vision](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/2cb33435bd4194a7424b4bc06d37ea10461906d3/NB3-01%20Fundamentals%20of%20Digital%20Images%20and%20Computer%20Vision.ipynb)**
-- NB3-2. **[Basic Image Processing Techniques]()**
+- NB3-2. **[Basic Image Processing Techniques](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/c9a220b9f1c8a9c6a155fe1533b182ca37759181/NB3-02%20Basic%20Image%20Processing%20Techniques.ipynb)**
 - NB3-3. **Affine Transformations**
 - NB3-4. **Intensity Transformations**
 - NB3-5. **Spatial Filters**
