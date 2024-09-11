@@ -68,7 +68,7 @@
 
 ### 1. Software Development Environments for Medical Image Processing
 
-- NB1-1. **Software Development Environments for Medical Image Processing**
+- NB1-1. **[Software Development Environments for Medical Image Processing](JuanZapa7a/Medical-Image-Processing/NB1-01%20Software%20Development%20Environments%20for%20Medical%20Image%20Processing.ipynb)**
 
 ### 2. Medical Imaging Modalities and Standards
 
