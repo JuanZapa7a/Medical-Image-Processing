@@ -72,8 +72,8 @@
 
 ### 2. Medical Imaging Modalities and Standards
 
-- NB2-1. **Medical Image Acquisition** 
-- NB2-2. **Standards for Medical Images**
+- NB2-1. **[Medical Image Acquisition](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB2-01%20Medical%20Image%20Acquisition.ipynb)** 
+- NB2-2. **[Standards for Medical Images](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB2-02%20Standards%20for%20Medical%20Images.ipynb)**
 
 ### 3. Computer Vision Fundamentals and Basic Image Processing Techniques
 
