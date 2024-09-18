@@ -69,37 +69,37 @@
 
 ### 1. Software Development Environments for Medical Image Processing
 
-- NB1-1. **[Software Development Environments for Medical Image Processing](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/6e9b1ad25534938e5201e59937066e38c3ec0b0a/NB1-01%20Software%20Development%20Environments%20for%20Medical%20Image%20Processing.ipynb)**
+- NB1-01. **[Software Development Environments for Medical Image Processing](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/6e9b1ad25534938e5201e59937066e38c3ec0b0a/NB1-01%20Software%20Development%20Environments%20for%20Medical%20Image%20Processing.ipynb)**
 
 ### 2. Medical Imaging Modalities and Standards
 
-- NB2-1. **[Medical Image Acquisition](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB2-01%20Medical%20Image%20Acquisition.ipynb)** 
-- NB2-2. **[Standards for Medical Images](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB2-02%20Standards%20for%20Medical%20Images.ipynb)**
+- NB2-01. **[Medical Image Acquisition](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB2-01%20Medical%20Image%20Acquisition.ipynb)** 
+- NB2-02. **[Standards for Medical Images](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB2-02%20Standards%20for%20Medical%20Images.ipynb)**
 
 ### 3. Computer Vision Fundamentals and Basic Image Processing Techniques
 
-- NB3-1. **[Fundamentals of Digital Images and Computer Vision](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/2cb33435bd4194a7424b4bc06d37ea10461906d3/NB3-01%20Fundamentals%20of%20Digital%20Images%20and%20Computer%20Vision.ipynb)**
-- NB3-2. **[Basic Image Processing Techniques](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/c9a220b9f1c8a9c6a155fe1533b182ca37759181/NB3-02%20Basic%20Image%20Processing%20Techniques.ipynb)**
-- NB3-3. **Affine Transformations**
-- NB3-4. **Intensity Transformations**
-- NB3-5. **Spatial Filters**
-- NB3-6. **Filtering in the Frequency Domain**
-- NB3-7. **Multiresolution Techniques**
-- NB3-8. **Morphological Operations**
-- NB3-9. **Segmentation**
+- NB3-01. **[Fundamentals of Digital Images and Computer Vision](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/2cb33435bd4194a7424b4bc06d37ea10461906d3/NB3-01%20Fundamentals%20of%20Digital%20Images%20and%20Computer%20Vision.ipynb)**
+- NB3-02. **[Basic Image Processing Techniques](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/c9a220b9f1c8a9c6a155fe1533b182ca37759181/NB3-02%20Basic%20Image%20Processing%20Techniques.ipynb)**
+- NB3-03. **Affine Transformations**
+- NB3-04. **Intensity Transformations**
+- NB3-05. **Spatial Filters**
+- NB3-06. **Filtering in the Frequency Domain**
+- NB3-07. **Multiresolution Techniques**
+- NB3-08. **Morphological Operations**
+- NB3-09. **Segmentation**
 - NB3-10. **Feature Extraction**
 
 ### 4. Machine and Deep Learning Techniques for Medical Image Processing
 
-- NB4-1. **[BioMedicine Images Datasets](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-1%20BioMedicine%20Images%20Datasets.ipynb)**
-- NB4-2. **[Getting Started with Roboflow](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-2%20Getting%20Started%20with%20Roboflow.ipynb)**  
-- NB4-3. **[Biomedical Images and Tensorflow I](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-3%20Biomedical%20Images%20and%20Tensorflow_(I).ipynb)**
-- NB4-4. **[Biomedical Images and Tensorflow II](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-4%20Biomedical%20Images%20and%20Tensorflow_(II).ipynb)**
-- NB4-5. **[Biomedical Images and Tensorflow III](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-5%20Biomedical%20Images%20and%20Tensorflow_(III).ipynb)**
-- NB4-6. **[Biomedical Images and Pytorch I](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-6%20Biomedical%20Images%20and%20Pytorch_(I).ipynb)**
-- NB4-7. **[Biomedical Images and Pytorch II](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-7%20Biomedical%20Images%20and%20Pytorch_(II).ipynb)**
-- NB4-8. **[Bioemdical Images and Pytorch III](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-8%20Biomedical%20Images%20and%20Pytorch_(III).ipynb)**
-- NB4-9. **[Biomedical Images and Pytorch IV](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-9%20Biomedical%20Images%20and%20Pytorch_(IV).ipynb)**
+- NB4-01. **[BioMedicine Images Datasets](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-01%20BioMedicine%20Images%20Datasets.ipynb)**
+- NB4-02. **[Getting Started with Roboflow](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-02%20Getting%20Started%20with%20Roboflow.ipynb)**  
+- NB4-03. **[Biomedical Images and Tensorflow I](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-03%20Biomedical%20Images%20and%20Tensorflow_(I).ipynb)**
+- NB4-04. **[Biomedical Images and Tensorflow II](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-04%20Biomedical%20Images%20and%20Tensorflow_(II).ipynb)**
+- NB4-05. **[Biomedical Images and Tensorflow III](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-05%20Biomedical%20Images%20and%20Tensorflow_(III).ipynb)**
+- NB4-06. **[Biomedical Images and Pytorch I](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-06%20Biomedical%20Images%20and%20Pytorch_(I).ipynb)**
+- NB4-07. **[Biomedical Images and Pytorch II](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-07%20Biomedical%20Images%20and%20Pytorch_(II).ipynb)**
+- NB4-08. **[Bioemdical Images and Pytorch III](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-08%20Biomedical%20Images%20and%20Pytorch_(III).ipynb)**
+- NB4-09. **[Biomedical Images and Pytorch IV](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-09%20Biomedical%20Images%20and%20Pytorch_(IV).ipynb)**
 - NB4-10. **[Biomedical Images and Pytorch V](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-10%20Biomedical%20Images%20and%20Pytorch_(V).ipynb)**
 - NB4-11. **[Chest Xray Classification Using YOLOv8](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-11%20Chest%20Xray%20Classification%20Using%20YOLOv8.ipynb)**
 - NB4-12. **[Medical Instance Segmentation with MASK RCNN Custom Finetunning](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-12%20Medical%20Instance%20Segmentation%20with%20Mask%20RCNN%20Custom%20Finetuning.ipynb)**
