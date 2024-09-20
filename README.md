@@ -93,14 +93,14 @@
 
 - NB4-01. **[BioMedicine Images Datasets](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-01%20BioMedicine%20Images%20Datasets.ipynb)**
 - NB4-02. **[Getting Started with Roboflow](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-02%20Getting%20Started%20with%20Roboflow.ipynb)**  
-- NB4-03. **[Biomedical Images and Tensorflow I](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-03%20Biomedical%20Images%20and%20Tensorflow_(I).ipynb)**
-- NB4-04. **[Biomedical Images and Tensorflow II](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-04%20Biomedical%20Images%20and%20Tensorflow_(II).ipynb)**
-- NB4-05. **[Biomedical Images and Tensorflow III](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-05%20Biomedical%20Images%20and%20Tensorflow_(III).ipynb)**
-- NB4-06. **[Biomedical Images and Pytorch I](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-06%20Biomedical%20Images%20and%20Pytorch_(I).ipynb)**
-- NB4-07. **[Biomedical Images and Pytorch II](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-07%20Biomedical%20Images%20and%20Pytorch_(II).ipynb)**
-- NB4-08. **[Bioemdical Images and Pytorch III](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-08%20Biomedical%20Images%20and%20Pytorch_(III).ipynb)**
-- NB4-09. **[Biomedical Images and Pytorch IV](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-09%20Biomedical%20Images%20and%20Pytorch_(IV).ipynb)**
-- NB4-10. **[Biomedical Images and Pytorch V](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-10%20Biomedical%20Images%20and%20Pytorch_(V).ipynb)**
+- NB4-03. **[Biomedical Imaging and Tensorflow I](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-03%20Biomedical%20Images%20and%20Tensorflow_(I).ipynb)**
+- NB4-04. **[Biomedical Imaging and Tensorflow II](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-04%20Biomedical%20Images%20and%20Tensorflow_(II).ipynb)**
+- NB4-05. **[Biomedical Imaging and Tensorflow III](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-05%20Biomedical%20Images%20and%20Tensorflow_(III).ipynb)**
+- NB4-06. **[Biomedical Imaging and Pytorch I](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-06%20Biomedical%20Images%20and%20Pytorch_(I).ipynb)**
+- NB4-07. **[Biomedical Imaging and Pytorch II](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-07%20Biomedical%20Images%20and%20Pytorch_(II).ipynb)**
+- NB4-08. **[Bioemdical Imaging and Pytorch III](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-08%20Biomedical%20Images%20and%20Pytorch_(III).ipynb)**
+- NB4-09. **[Biomedical Imaging and Pytorch IV](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-09%20Biomedical%20Images%20and%20Pytorch_(IV).ipynb)**
+- NB4-10. **[Biomedical Imaging and Pytorch V](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-10%20Biomedical%20Images%20and%20Pytorch_(V).ipynb)**
 - NB4-11. **[Chest Xray Classification Using YOLOv8](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-11%20Chest%20Xray%20Classification%20Using%20YOLOv8.ipynb)**
 - NB4-12. **[Medical Instance Segmentation with MASK RCNN Custom Finetunning](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-12%20Medical%20Instance%20Segmentation%20with%20Mask%20RCNN%20Custom%20Finetuning.ipynb)**
 - NB4-13. **[Classifyng Cancer cells with YOLOv8](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-13%20Classifyng%20Cancer%20Cells%20with%20YOLOV8.ipynb)**
