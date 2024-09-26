@@ -91,7 +91,7 @@
 
 ### 4. Machine and Deep Learning Techniques for Medical Image Processing
 
-- NB4-01. **[BioMedicine Images Datasets](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-01%20BioMedicine%20Images%20Datasets.ipynb)**
+- NB4-01. **[Biomedical Imaging Datasets](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-01%20Biomedical%20Imaging%20Datasets.ipynb)**
 - NB4-02. **[Getting Started with Roboflow](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-02%20Getting%20Started%20with%20Roboflow.ipynb)**  
 - NB4-03. **[Biomedical Imaging and Tensorflow I](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-03%20Biomedical%20Imaging%20and%20Tensorflow_(I).ipynb)**
 - NB4-04. **[Biomedical Imaging and Tensorflow II](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-04%20Biomedical%20Imaging%20and%20Tensorflow_(II).ipynb)**
