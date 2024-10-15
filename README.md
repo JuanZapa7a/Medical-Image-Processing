@@ -83,11 +83,11 @@
 - NB3-03. **[Affine Transformations](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB3-03%20Affine%20Transformations.ipynb)**
 - NB3-04. **[Intensity Transformations](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB3-04%20Intensity%20Transformations.ipynb)**
 - NB3-05. **[Spatial Filters](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB3-05%20Spatial%20Filters.ipynb)**
-- NB3-06. **Filtering in the Frequency Domain**
-- NB3-07. **Multiresolution Techniques**
-- NB3-08. **Morphological Operations**
-- NB3-09. **Segmentation**
-- NB3-10. **Feature Extraction**
+- NB3-06. **[Filtering in the Frequency Domain](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/555ee235d5027a6189fb4bf1cac7016d1bf2480c/NB3-06%20Filtering%20in%20the%20Frequency%20Domain.ipynb)**
+- NB3-07. **[Multiresolution Techniques]()**
+- NB3-08. **[Morphological Operations]()**
+- NB3-09. **[Segmentation]()**
+- NB3-10. **[Feature Extraction]()**
 
 ### 4. Machine and Deep Learning Techniques for Medical Image Processing
 
