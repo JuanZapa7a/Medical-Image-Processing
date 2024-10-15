@@ -87,7 +87,7 @@
 - NB3-07. **[Multiresolution Techniques](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/555ee235d5027a6189fb4bf1cac7016d1bf2480c/NB3-07%20Multiresolution%20Techniques.ipynb)**
 - NB3-08. **[Morphological Operations](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/555ee235d5027a6189fb4bf1cac7016d1bf2480c/NB3-08%20Morphological%20Operations.ipynb)**
 - NB3-09. **[Segmentation](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/555ee235d5027a6189fb4bf1cac7016d1bf2480c/NB3-09%20Image%20Segmentation.ipynb)**
-- NB3-10. **[Feature Extraction]()**
+- NB3-10. **[Feature Extraction](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/83ca90bfb3afe49dedc499f9649660d7299c64ae/NB3-10%20Feature%20Extraction.ipynb)**
 
 ### 4. Machine and Deep Learning Techniques for Medical Image Processing
 
