@@ -63,6 +63,17 @@
 | 3-6    | Filtering in the Frequency Domain                              | 4-6      | Biomedical Images and Pytorch I               |        |                                                                      |
 |---|
 
+### PIM Challenge (Tema 4 Practical Sessions 6-10)
+
+| Practical | Title                                              |
+|-----------|-----------------------------------------------------|
+| P6        | Dataset Exploration (BUSI) & RLE Format              |
+| P7        | Baseline Model (U-Net) & 1st Submission              |
+| P8        | Data Augmentation & Model Improvement                |
+| P9        | Inference, Threshold Optimization & Error Analysis   |
+| P10       | Test Time Augmentation, Final Submission & Oral Defense |
+|---|
+
 
 ## **Syllabus**
 
@@ -107,6 +118,17 @@
 - NB4-13. **[Classifyng Cancer cells with YOLOv8](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-13%20Classifyng%20Cancer%20Cells%20with%20YOLOV8.ipynb)**
 - NB4-14. **[Detecting Red Blood Cells (RBC), White Blood Cells (WBC), and Platelets from Microscope Images Using YOLOv8](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-14%20Detecting%20Red%20Blood%20Cells%20(RBC)%2C%20White%20Blood%20Cells%20(WBC)%2C%20and%20Platelets%20from%20Microscope%20Images%20Using%20YOLOv8.ipynb)**
 - NB4-15. **[Segmenting Breast Ultrasound Images using YOLOv8](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-15%20Segmenting%20Breast%20Ultrasound%20Images%20using%20YOLOv8.ipynb)**
+
+### PIM Challenge: UPCT Medical Image Segmentation Challenge (Practical Sessions 6-10)
+
+The Tema 4 practical sessions (weeks 8-13) are a Kaggle competition on the BUSI breast ultrasound dataset, solved with a PyTorch U-Net across 5 linked sessions. A new notebook is released each week; students append its cells to the one they started in P6, ending up with a single complete project notebook by P10.
+
+- **[Master notebook (session guide)](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/PIM_Challenge/PIM_Challenge_Master.ipynb)** ([English](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/PIM_Challenge/PIM_Challenge_Master_EN.ipynb))
+- P6. **[Dataset Exploration (BUSI) & RLE Format](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/PIM_Challenge/PIM_Challenge_Student_Practica_6.ipynb)** ([English](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/PIM_Challenge/PIM_Challenge_Student_Practice_6.ipynb))
+- P7. **[Baseline Model (U-Net) & 1st Submission](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/PIM_Challenge/PIM_Challenge_Student_Practica_7.ipynb)** ([English](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/PIM_Challenge/PIM_Challenge_Student_Practice_7.ipynb))
+- P8. **[Data Augmentation & Model Improvement](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/PIM_Challenge/PIM_Challenge_Student_Practica_8.ipynb)** ([English](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/PIM_Challenge/PIM_Challenge_Student_Practice_8.ipynb))
+- P9. **[Inference, Threshold Optimization & Error Analysis](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/PIM_Challenge/PIM_Challenge_Student_Practica_9.ipynb)** ([English](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/PIM_Challenge/PIM_Challenge_Student_Practice_9.ipynb))
+- P10. **[Test Time Augmentation, Final Submission & Oral Defense](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/PIM_Challenge/PIM_Challenge_Student_Practica_10.ipynb)** ([English](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/PIM_Challenge/PIM_Challenge_Student_Practice_10.ipynb))
 
 ## Keywords and Links
 
