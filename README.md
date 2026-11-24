@@ -115,7 +115,7 @@
 - NB4-10. **[Biomedical Imaging and Pytorch V](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-10%20Biomedical%20Imaging%20and%20Pytorch_(V).ipynb)**
 - NB4-11. **[Chest Xray Classification Using YOLOv8](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-11%20Chest%20Xray%20Classification%20Using%20YOLOv8.ipynb)**
 - NB4-12. **[Medical Instance Segmentation with MASK RCNN Custom Finetunning](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-12%20Medical%20Instance%20Segmentation%20with%20Mask%20RCNN%20Custom%20Finetuning.ipynb)**
-- NB4-13. **[Classifyng Cancer cells with YOLOv8](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-13%20Classifyng%20Cancer%20Cells%20with%20YOLOV8.ipynb)**
+- NB4-13. **[Classifying Cancer cells with YOLOv8](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-13%20Classifying%20Cancer%20Cells%20with%20YOLOV8.ipynb)**
 - NB4-14. **[Detecting Red Blood Cells (RBC), White Blood Cells (WBC), and Platelets from Microscope Images Using YOLOv8](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-14%20Detecting%20Red%20Blood%20Cells%20(RBC)%2C%20White%20Blood%20Cells%20(WBC)%2C%20and%20Platelets%20from%20Microscope%20Images%20Using%20YOLOv8.ipynb)**
 - NB4-15. **[Segmenting Breast Ultrasound Images using YOLOv8](https://github.com/JuanZapa7a/Medical-Image-Processing/blob/main/NB4-15%20Segmenting%20Breast%20Ultrasound%20Images%20using%20YOLOv8.ipynb)**
 
